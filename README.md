@@ -18,9 +18,6 @@ A machine learning regression project to predict the **Fire Weather Index (FWI)*
 - [Web Application](#web-application)
 - [Deployment](#deployment)
 - [Installation & Run Locally](#installation--run-locally)
-- [Project Structure](#project-structure)
-- [Future Improvements](#future-improvements)
-- [License](#license)
 
 ---
 
