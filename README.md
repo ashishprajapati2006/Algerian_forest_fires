@@ -1,9 +1,26 @@
 # 🔥 Forest Fire Weather Index (FWI) Prediction
 
+[![Elastic Beanstalk](https://img.shields.io/badge/Deployed%20on-AWS%20Elastic%20Beanstalk-orange?logo=amazonaws)](http://forestfire-env.eba-34hyti9z.ap-south-1.elasticbeanstalk.com)
+[![Made with Python](https://img.shields.io/badge/Made%20with-Python-blue?logo=python)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
 A machine learning regression project to predict the **Fire Weather Index (FWI)** using the **Algerian Forest Fires Dataset**. The project includes data preprocessing, EDA, feature engineering, model training, Flask web app creation, and AWS cloud deployment.
 
 🚀 [Live Project Link](http://forestfire-env.eba-34hyti9z.ap-south-1.elasticbeanstalk.com)
 
+---
+
+## 📌 Table of Contents
+- [About the Project](#about-the-project)
+- [Dataset Information](#dataset-information)
+- [EDA & Feature Engineering](#eda--feature-engineering)
+- [Modeling](#modeling)
+- [Web Application](#web-application)
+- [Deployment](#deployment)
+- [Installation & Run Locally](#installation--run-locally)
+- [Project Structure](#project-structure)
+- [Future Improvements](#future-improvements)
+- [License](#license)
 
 ---
 
